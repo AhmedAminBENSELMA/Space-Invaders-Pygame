@@ -20,4 +20,4 @@ Space Invaders is a classic arcade-style game developed using **Pygame**, a Pyth
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/AhmedAminBENSELMA/Space-Invaders.git
+   git https://github.com/AhmedAminBENSELMA/Space-Invaders-Pygame.git
